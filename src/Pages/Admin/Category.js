@@ -8,7 +8,7 @@ import Search from "../../Components/Admin/Search";
 import Pagination from "../../Components/Pagination";
 
 const Category = () => {
-  const dispatch = useDispatch();
+  const dispatch = useDispatch(); 
 
   const { category, error } = useSelector((state) => state.category);
 
