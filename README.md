@@ -33,3 +33,4 @@
 - Swiper
 - Bootstrap
 - React-icons
+- Cloudinary
