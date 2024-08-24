@@ -1,0 +1,88 @@
+.mainInfo {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.info {
+    width: 280px;
+    margin-bottom: 1.5rem;
+    padding: .75rem;
+    border-radius: 5%;
+    box-shadow: 1px 1px 5px rgb(136, 131, 131);
+}
+
+.heading {
+    font-size: 1rem;
+    font-weight: bold;
+    color: #222;
+}
+
+.title {
+    font-weight: bold;
+    color: #222;
+    font-size: .9rem;
+}
+
+.property {
+    font-size: .9rem;
+    color: #333;
+    font-weight: bold;
+}
+
+.value {
+    font-size: .9rem;
+    color: #222;
+    font-weight: 600;
+}
+
+.addInfo {
+    font-size: .9rem;
+    font-weight: 600;
+    color: #222;
+}
+
+.statusFrm {
+    margin-top: .25rem;
+}
+
+.statusInput {
+    margin-right: .25rem;
+    background-color: #fff;
+    color: rgb(0, 0, 0);
+    border: 2px solid rgb(3, 3, 26);
+    border-radius: 3px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.statusBtn {
+    margin-left: .25rem;
+    padding: .10rem .50rem;
+    background-color: rgb(11, 2, 99);
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.statusBtn:hover {
+    background-color: rgb(22, 3, 190);
+}
+
+.statusBtn:disabled {
+    background-color: rgba(1, 1, 97, 0.493);
+}
+
+@media screen and (max-width: 912px) {
+    .info {
+        width: 250px;
+    }
+}
+
+@media screen and (max-width: 820px) {
+    .info {
+        width: 300px;
+    }
+}

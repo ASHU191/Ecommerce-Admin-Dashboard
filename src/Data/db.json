@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "username": "Admin Md Arsalan Aftab",
+      "email": "arsalanaftab191@gmail.com",
+      "password": "12345678",
+      "image": "",
+      "userType": "super admin",
+      "status": "active",
+      "id": 1,
+      "phone": "03010209887",
+      "house": "674",
+      "street": "1",
+      "state": "Sindh",
+      "country": "Pakistan"
+    }
+  ],
+  "customers": [
+    {
+      "username": "md rayyan",
+      "password": "1234",
+      "email": "rayyan@gmail.com",
+      "phone": "030000000",
+      "house": "123",
+      "street": "1",
+      "state": "Sindh",
+      "country": "Pakistan",
+      "image": "http://res.cloudinary.com/di2ow5e2d/image/upload/v1723204808/FB_IMG_1714722343887_an05or.jpg",
+      "status": "active",
+      "id": 1
+    }
+  ],
+  "banner": [
+    {
+      "title": "Banner 01",
+      "status": "active",
+      "image": "http://res.cloudinary.com/djorpdesu/image/upload/v1674146282/cuekp1moogxqvnzska2h.jpg",
+      "id": 1
+    },
+    {
+      "title": "Banner 02",
+      "status": "active",
+      "image": "http://res.cloudinary.com/djorpdesu/image/upload/v1674146323/xenbtsqi8vtqbsmy4ksx.jpg",
+      "id": 2
+    }
+  ],
+  "category": [
+    {
+      "category": "Mens Shirt",
+      "status": "active",
+      "id": 1
+    }
+  ],
+  "coupon": [
+    {
+      "coupon": "Logic10",
+      "discount": 10,
+      "status": "active",
+      "id": 3
+    },
+    {
+      "coupon": "Logic20",
+      "discount": 20,
+      "status": "active",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "title": "Legendary Whitetails Men's Textured Stretch Woven Plaid Short Sleeve Shirt",
+      "description": "Product details\nFabric type52% Cotton, 40% Recycled Polyester, 8% Spandex\nCare instructionsMachine Wash\nOriginImported\nClosure typeSnap\nCountry of OriginCambodia",
+      "brand": "own",
+      "status": "active",
+      "category": "Mens Shirt",
+      "price": 1500,
+      "image": "http://res.cloudinary.com/di2ow5e2d/image/upload/v1723204939/81SsL-MGE7L._AC_SX679__urthwe.jpg",
+      "id": 1
+    }
+  ],
+  "orders": []
+}
