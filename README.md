@@ -23,7 +23,7 @@
    
 ## Used tools and technology
 
--Node JS
+- Node JS
 - React JS
 - Redux
 - Redux-toolkit
