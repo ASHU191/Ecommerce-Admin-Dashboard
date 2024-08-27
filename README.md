@@ -1,4 +1,4 @@
-# E-commerce app with Admin Dashboard using React Redux-toolkit 
+# E-commerce app with Admin Dashboard using Node & React Redux-toolkit 
 
 ## Live Demo
    
