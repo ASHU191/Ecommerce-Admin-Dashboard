@@ -23,7 +23,8 @@
    
 ## Used tools and technology
 
-- React
+-Node JS
+- React JS
 - Redux
 - Redux-toolkit
 - React-router-dom v6
