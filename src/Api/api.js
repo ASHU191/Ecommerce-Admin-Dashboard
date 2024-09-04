@@ -3,7 +3,7 @@
 export const BASE_URL = `http://localhost:8000`;
 
 export const postConfigure = (data) => {
-  return {
+  return {     
     method: "POST",
     body: JSON.stringify(data),
     headers: {
@@ -11,7 +11,7 @@ export const postConfigure = (data) => {
     },
   };
 };
-
+                                         
 export const patchConfigure = (data) => {
   return {
     method: "PATCH",
