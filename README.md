@@ -7,7 +7,7 @@
 ## installation   
 
  
-```                                                         
+```                                                             
     npm install
 ```                                                               
 
