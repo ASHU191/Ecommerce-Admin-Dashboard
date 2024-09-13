@@ -3,7 +3,7 @@
     {
       "username": "Super Admin",
       "email": "dummy@dummy.com",
-      "password": "123123123",
+      "password": "123123123",                                                           
       "image": "https://res.cloudinary.com/djorpdesu/image/upload/v1674138093/gdybotabhkk6enkuvlgd.jpg",
       "userType": "super admin",
       "status": "active",
