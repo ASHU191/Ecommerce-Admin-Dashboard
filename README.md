@@ -9,7 +9,7 @@
  
 ```                                                             
     npm install
-```                                                               
+```                                                                        
 
 ## Commands for run the app
                                    
