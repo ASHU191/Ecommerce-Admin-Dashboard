@@ -9,7 +9,7 @@ import customersSlice from "./features/customersSlice";
 import frontendProductsSlice from "./features/frontendProductsSlice";
 import ordersSlice from "./features/ordersSlice";
 import productsSlice from "./features/productsSlice";
-import usersSlice from "./features/usersSlice";
+import usersSlice from "./features/usersSlice";   
 
 
 const store = configureStore({
